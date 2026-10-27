@@ -3,7 +3,7 @@ layout: default
 title: Student Projects & Theses
 ---
 
-# Available Student Projects & Theses (Please don't contact us :D)
+# Available Student Projects & Theses 
 
 We offer Bachelor's and Master's thesis topics, student projects, and research assistant opportunities at Julius-Maximilians-Universität Würzburg. 
 
@@ -16,6 +16,7 @@ We offer Bachelor's and Master's thesis topics, student projects, and research a
 | P | Diffusion Model based Pelvic Ultrasound Inpainting | 🔴 Taken | - |
 | P | Self-supervised Learning based Cross Modality Ovary Segmentation | 🟢 Open | Better passed the Advanced Deep Learning |
 | P | Towards Geometrically Grounded Evaluation of pCLE Mosaicing | 🟢 Open | Prerequest: Java |
+| P | Moving Trash Can | 🟢 Open | Prerequest: SLAM |
 
 
 ## Project Types

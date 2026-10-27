@@ -1,49 +1,38 @@
 ---
 layout: default
 title: Student Projects & Theses
+lede: "We often offer interesting projects, theses, and Hiwi opportunities in the field of medical image analysis and pattern recognition ;) Please check the table below for the current topics on offer. But we also encourage you to bring your own ideas and proposals to us! "
+description: "Open student projects and theses at the PR-CAIDAS-JMU."
 ---
 
-# Available Student Projects & Theses 
+## Current Projects 🤖
 
-We offer Bachelor's and Master's thesis topics, student projects, and research assistant opportunities at Julius-Maximilians-Universität Würzburg. 
+The table below lists the topics currently on offer; availability is indicated for each.
 
-## Current Projects
+| Type | Topic | Status | Notes |
+|:--:|---|---|:--|
+| P | Benchmarking and adaptation (optional) of VLMs for medical tasks | <span class="status status--open">Open</span> | KI Proj 1/2 · 10 ECTS |
+| P | Multimodal (agentic) AI for reasoning-guided pathology report generation from whole-slide images | <span class="status status--open">Open</span> | KI Proj 1/2 · 10 ECTS |
+| P/BA | Diffusion-model-based pelvic ultrasound inpainting | <span class="status status--taken">Taken</span> | — |
+| P | Self-supervised learning for cross-modality ovary segmentation | <span class="status status--open">Open</span> | (Advanced) Deep Learning passed as preferred |
+| P | Towards geometrically grounded evaluation of pCLE mosaicing | <span class="status status--open">Open</span> | Prerequisite: Java |
+| BA | Agentic LLMs in digital pathology | <span class="status status--taken">Taken</span> | — |
 
-| Type | Topic | Status | Note |
-|---|---|---|---|
-| P | Benchmarking and adaptation (optional) of VLMs for medical tasks | 🟢 Open | KI Proj 1/2, 10 ECTS |
-| P | Multimodal (agentic) AI for reasoning-guided pathology report generation from whole slide images | 🟢 Open | KI Proj 1/2, 10 ECTS |
-| P | Diffusion Model based Pelvic Ultrasound Inpainting | 🔴 Taken | - |
-| P | Self-supervised Learning based Cross Modality Ovary Segmentation | 🟢 Open | Better passed the Advanced Deep Learning |
-| P | Towards Geometrically Grounded Evaluation of pCLE Mosaicing | 🟢 Open | Prerequest: Java |
-| BA | Agentic LLM in Digital Pathology | 🔴 Taken | - |
+<p class="project-types"><strong>BA</strong> Bachelor's thesis, 10 ECTS · <strong>MA</strong> Master's thesis, 30 ECTS · <strong>P</strong> Student project, 5 / 10 ECTS · <strong>HiWi</strong> Student research assistant</p>
 
-## Project Types
+## How to Apply 📋
 
-| Abbreviation | Description | ECTS |
-|:---:|---|:---:|
-| BA | Bachelor's Thesis | 10 |
-| MA | Master's Thesis | 30 |
-| P | Student Project | 5 / 10 |
-| HiWi | Student Research Assistant | — |
+If you are interested in one of the topics above, please send your application by email to
+**[caidas-pr-student-projects@uni-wuerzburg.de](mailto:caidas-pr-student-projects@uni-wuerzburg.de)**.
 
----
+Please kindly include the following in your email:
 
+1. **Curriculum vitae (CV)**
+2. **Transcript of records**
+3. **Topic of interest** — the project or thesis you are applying for
+4. The expected **project type** (ideally the exam nummber in your PO) and estimated **starting date**
+5. **Motivation** and relevant skills — a brief statement no more than 150 words
 
-## How to Apply
+We try our best to respond within two weeks. If you have not heard from us by then, please check this page for updates on the availability of the topics and try again. If you have any questions, please do not hesitate to contact us.
 
-If you are interested in any of the topics listed above, please contact us via email:
-
-📧 **[caidas-pr-student-projects@uni-wuerzburg.de](mailto:caidas-pr-student-projects@uni-wuerzburg.de)**
-
-We will try our best to respond to your application within 2 weeks. If you don't hear back from us within this time frame, please check the website for further updates on the availability of the topics. 
-
-Please include the following in your application:
-
-1. **Curriculum Vitae (CV)**
-2. **Transcript of Records**
-3. **Topic of Interest** — specify the project or thesis you are interested in.
-4. A brief overview of the motivation and your relevant skills for the project (if applicable). 
-
-> **Important:** Only applications containing all the required documents and information will be considered. Emails sending to individual lab members will likely not be considered.  
-
+> **Important.** Only applications containing all the required documents and information will be considered. Applications sent to individual lab members may not be considered.

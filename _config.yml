@@ -4,3 +4,6 @@ description: "Student projects and theses at the PR, CAIDAS, Julius-Maximilians-
 lang: en
 url: "https://pattern-recognition-jmu-test.github.io"
 baseurl: "/open_projs"
+
+# Maintainer docs, not part of the published site.
+exclude: ["cheatsheet.md"]

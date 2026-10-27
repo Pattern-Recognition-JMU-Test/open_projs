@@ -18,6 +18,7 @@
 
   /* Theme-dependent surfaces. */
   --surface: #ffffff;
+  --hero-bg: #f7f9fb;
   --logo-chip: transparent;
   --logo-chip-pad: 0;
   --hero-image-filter: none;
@@ -43,6 +44,7 @@
     --taken: #c08f85;
 
     --surface: #171a1f;
+    --hero-bg: #1a1d22;
     --logo-chip: #fcfbf8;
     --logo-chip-pad: 0.3rem 0.55rem;
     --hero-image-filter: brightness(0.88) saturate(0.95);
@@ -62,6 +64,7 @@
   --open: #79b394;
   --taken: #c08f85;
   --surface: #171a1f;
+  --hero-bg: #1a1d22;
   --logo-chip: #fcfbf8;
   --logo-chip-pad: 0.3rem 0.55rem;
   --hero-image-filter: brightness(0.88) saturate(0.95);
@@ -148,10 +151,9 @@ body {
 
 .site-title {
   font-family: var(--sans);
-  font-size: 0.72rem;
+  font-size: 1.00rem;
   font-weight: 650;
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
+  letter-spacing: 0.1em;
   color: var(--ink);
 }
 
@@ -226,7 +228,7 @@ main {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 38%);
   margin-bottom: 3.2rem;
-  background: var(--surface);
+  background: var(--hero-bg);
   overflow: hidden;
 }
 

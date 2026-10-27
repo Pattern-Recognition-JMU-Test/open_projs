@@ -13,8 +13,8 @@ The table below lists the topics currently on offer; availability is indicated f
 |:--:|---|---|:--|
 | P | Benchmarking and adaptation (optional) of VLMs for medical tasks | <span class="status status--open">Open</span> | KI Proj 1/2 · 10 ECTS |
 | P | Multimodal (agentic) AI for reasoning-guided pathology report generation from whole-slide images | <span class="status status--open">Open</span> | KI Proj 1/2 · 10 ECTS |
-| P/BA | Diffusion-model-based pelvic ultrasound inpainting | <span class="status status--taken">Taken</span> | — |
-| P | Self-supervised learning for cross-modality ovary segmentation | <span class="status status--open">Open</span> | (Advanced) Deep Learning passed as preferred |
+| P/BA | Diffusion-Model based pelvic ultrasound inpainting | <span class="status status--taken">Taken</span> | — |
+| P | Self-supervised Learning for Cross-Modal Ovary Segmentation | <span class="status status--open">Open</span> | (Advanced) Deep Learning passed as preferred |
 | P | Towards geometrically grounded evaluation of pCLE mosaicing | <span class="status status--open">Open</span> | Prerequisite: Java |
 | BA | Agentic LLMs in digital pathology | <span class="status status--taken">Taken</span> | — |
 
@@ -33,6 +33,6 @@ Please kindly include the following in your email:
 4. The expected **project type** (ideally the exam nummber in your PO) and estimated **starting date**
 5. **Motivation** and relevant skills — a brief statement no more than 150 words
 
-We try our best to respond within two weeks. If you have not heard from us by then, please check this page for updates on the availability of the topics and try again. If you have any questions, please do not hesitate to contact us.
+We try our best to respond within two weeks. If you have not heard from us by then, please check this page for updates on the availability of the topics and try again. If you have any questions, please do not hesitate to contact us. 
 
-> **Important.** Only applications containing all the required documents and information will be considered. Applications sent to individual lab members may not be considered.
+> **⚠️Important.** Only applications containing all the required documents and information will be considered. Applications sent to individual lab members may not be considered. 

@@ -3,7 +3,7 @@ layout: default
 title: Student Projects & Theses
 ---
 
-# Available Student Projects & Theses
+# Available Student Projects & Theses (Please don't contact us :D)
 
 We offer Bachelor's and Master's thesis topics, student projects, and research assistant opportunities at Julius-Maximilians-Universität Würzburg. 
 

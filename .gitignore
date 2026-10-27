@@ -1,0 +1,58 @@
+# ---------------------------------------------------------------------------
+# .gitignore — Pattern Recognition Group project site (Jekyll / GitHub Pages)
+#
+# Everything the site needs to build stays tracked: _config.yml, _layouts/,
+# assets/, current_projects.md and README.md. Everything below is generated
+# locally or belongs to a single machine and must not be committed.
+# ---------------------------------------------------------------------------
+
+# ---- Jekyll build output and caches ---------------------------------------
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.jekyll-build-errors
+.sass-cache/
+
+# ---- Ruby / Bundler (only needed when building locally) -------------------
+.bundle/
+vendor/
+
+# ---- Local preview scaffolding ---------------------------------------------
+# Scratch directory used to render pages without a full Jekyll install; it
+# holds node_modules, an npm cache, a browser profile and generated HTML.
+.preview/
+
+# ---- Node.js ----------------------------------------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---- Logs, temporary and leftover backup files ------------------------------
+*.log
+tmp/
+.cache/
+*.orig
+*.rej
+*.bak
+
+# ---- Environment files and secrets ------------------------------------------
+.env
+.env.*
+!.env.example
+
+# ---- Editors and IDEs --------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.history/
+
+# ---- Operating-system junk ---------------------------------------------------
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini

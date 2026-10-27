@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <meta name="color-scheme" content="light dark">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap">
+      <span class="site-title">{{ site.title | escape }}</span>
+      <span class="site-affiliation">{{ site.tagline | escape }}</span>
+    </div>
+  </header>
+
+  <main id="content" class="wrap">
+    <article class="prose">
+      <header class="page-header">
+        <h1 class="page-title">{{ page.title | escape }}</h1>
+        {% if page.lede %}<p class="page-lede">{{ page.lede | escape }}</p>{% endif %}
+      </header>
+
+      {{ content }}
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>{{ site.title | escape }} · {{ site.tagline | escape }}</p>
+      <p>
+        <a href="https://www.caidas.uni-wuerzburg.de/pr/">Official group website</a>
+        <span aria-hidden="true">·</span>
+        <span>Last updated {{ site.time | date: "%-d %B %Y" }}</span>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

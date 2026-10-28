@@ -1,8 +1,10 @@
-This repo is dedicated to show the up-to-date opening projects information to students. 
+# Current Projects & Theses
 
-WEBPAGE: [Link](https://pattern-recognition-jmu-test.github.io/open_projs/current_projects.html)
+This repo is dedicated to give a easy-to-maintain solution of showing the opening projects information to students. 
 
-For official information, please refer to the [official website](https://www.caidas.uni-wuerzburg.de/pr/). 
-This project is still WIP and we will keep updating the information here. 
+WEBPAGE: [https://pattern-recognition-jmu-test.github.io/open_projs/current_projects.html](https://pattern-recognition-jmu-test.github.io/open_projs/current_projects.html)
 
-⚠️This page is still under construction. For maintainance and update, please check [cheatsheet.md](cheatsheet.md) for more information.
+For information such as thesis/report submission guideline, please refer to lab's [official website](https://www.caidas.uni-wuerzburg.de/pr/).  
+For update and maintainance, please check [cheatsheet.md](cheatsheet.md) for more information. 
+
+> ⚠️This page is still under construction. 

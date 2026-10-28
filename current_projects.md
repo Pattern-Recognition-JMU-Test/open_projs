@@ -30,13 +30,15 @@ Please kindly include the following in your email:
 
 1. **Curriculum vitae (CV)**
 2. **Transcript of records**
-3. **Topic of interest** — the project or thesis you are applying for
+3. **Topic of interest** — the project or thesis you are applying for or you own proposal
 4. The expected **project type** (ideally also with the exam nummber in your PO) and estimated **starting date**
 5. **Motivation** and relevant skills — a brief statement no more than 150 words
 
-> **⚠️Important.** Incomplete applications will not be considered. To ensure fairness to all students, please do not send applications directly to individual lab members. 
+Incomplete applications will not likely be considered. 
 
-## After sending your application🎉
+> **⚠️Important.**  To ensure fairness to all students, please do not send applications directly to individual lab members. We also genuinely enjoy reading your own words, so an application that smells faintly of a very confident LLM may not make it to the interview ;) 
+
+## After sending your application⏳
 - If the topic is still available, the responsible lab member will contact you to schedule a short interview. 
 - During interview, we typically ask you to give a short technical presentation/demo of one of your previous (AI/Deep Learning) projects. 
 - As we receive many requests for each topic, we try our best to respond within two weeks. If you have not heard from us by then, please check this page for updates on the availability of the topics or contact again. 

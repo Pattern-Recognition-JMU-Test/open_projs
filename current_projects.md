@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Student Projects & Theses
-lede: "We often offer interesting projects, theses, and Hiwi opportunities in the field of medical image analysis and pattern recognition ;) Please check the table below for the current topics on offer. Additionally, we also encourage you to bring your own brilliant ideas, proposals, and topics to us! "
+lede: "We often offer interesting projects, theses, and Hiwi opportunities in the field of medical image analysis and pattern recognition to motivated JMU students:) Please check the table below for the current topics on offer. Additionally, we also encourage you to bring your own brilliant ideas, proposals, and topics to us! "
 description: "Open student projects and theses at the PR-CAIDAS-JMU."
 ---
 
@@ -36,10 +36,14 @@ Please kindly include the following in your email:
 
 Incomplete applications will not likely be considered. 
 
-> **⚠️Important.**  To ensure fairness to all students, please do not send applications directly to individual lab members. We also genuinely enjoy reading your own words, so an application that smells faintly of a very confident LLM may not make it to the interview ;) 
+> **⚠️Important.**  To ensure fairness to all students, please do not send applications directly to individual lab members. We also genuinely enjoy reading your own words, so an application that sounds like it was (over)polished by an LLM may not make it to an interview. ~~Nothing personal — we just haven't started to hire PhD-level LLMs as interviewers (yet)~~. 
 
-## After sending your application⏳
+## After sending your application ⏳
 - If the topic is still available, the responsible lab member will contact you to schedule a short interview. 
-- During interview, we typically ask you to give a short technical presentation/demo of one of your previous (AI/Deep Learning) projects. 
-- As we receive many requests for each topic, we try our best to respond within two weeks. If you have not heard from us by then, please check this page for updates on the availability of the topics or contact again. 
-- If you have any concerns/questions, please do not hesitate to contact us. 
+- During the interview, we typically ask you to give a short technical presentation/demo of one of your previous (AI/Deep Learning) projects. 
+- As we receive many requests for each topic, we try our best to respond within two weeks. If you have not heard from us by then, please check this page for updates on the availability or contact again. 
+
+
+If you have any concerns/questions, please do not hesitate to **[contact us](mailto:caidas-pr-student-projects@uni-wuerzburg.de)**! 
+
+**Good luck and we are looking forward to seeing your applications💃🕺**
